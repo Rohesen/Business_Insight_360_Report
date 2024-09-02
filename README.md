@@ -136,20 +136,20 @@ These tables contain static data, such as customer and product details.
      - Direct
      - Distributors
 
- - **dim_market**:
-  - 27 distinct markets (e.g., India, USA, Spain)
-  - 7 sub-zones
-  - 4 regions:
-    - APAC
-    - EU
-    - NA
-    - LATAM
+  - **dim_market**:
+    - 27 distinct markets (e.g., India, USA, Spain)
+    - 7 sub-zones
+    - 4 regions:
+      - APAC
+      - EU
+      - NA
+      - LATAM
 
- - **dim_product**:
-  - Divisions:
-    - P & A (Peripherals & Accessories)
-    - PC (Notebook, Desktop)
-    - N & S (Networking & Storage)
+  - **dim_product**:
+    - Divisions:
+     - P & A (Peripherals & Accessories)
+     - PC (Notebook, Desktop)
+     - N & S (Networking & Storage)
   - 14 different categories (e.g., Internal HDD, Keyboard)
   - Various product variants available for the same category
 
