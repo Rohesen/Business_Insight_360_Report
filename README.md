@@ -99,7 +99,7 @@ However, a recent expansion into the American market resulted in unforeseen loss
 
 ## 🚀 Project Kickoff
 
-Before diving into the project, it's crucial to clarify its purpose and objectives. Here are the key questions to consider:
+-Before diving into the project, it's crucial to clarify its purpose and objectives. Here are the key questions to consider:
 
 ### Questions to Ask Before Starting the Dashboard
 
