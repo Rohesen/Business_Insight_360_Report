@@ -198,6 +198,64 @@ For this project, the database is housed in MySQL. To begin, datasets were impor
 ![Data_Model](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Project_Screenshot2_updated.png)
 
 
+## 🎨 Dashboard Designing
+
+The dashboard design process begins with translating the mockups received as part of the project requirements into interactive visuals. As the design progresses, necessary measures are created using DAX to ensure the visuals accurately reflect the data.
+
+### 🏠 Home View
+
+The **Home View** acts as the central hub of the dashboard. It features buttons that allow users to navigate to specific sections of the dashboard, each tailored to different business areas.
+
+### 📂 Available Views
+
+1. **Info**: Provides general information and context about the dashboard and its purpose.
+2. **Finance View**: Focuses on financial data, including revenue, expenses, and profitability.
+3. **Sales View**: Displays sales performance metrics, trends, and comparisons.
+4. **Marketing View**: Covers marketing KPIs, campaign effectiveness, and customer engagement.
+5. **Supply Chain View**: Offers insights into supply chain operations, inventory levels, and logistics.
+6. **Executive View**: Summarizes high-level insights for executives, providing a quick overview of business performance.
+7. **Products**: Details product performance, categories, and sales figures.
+8. **Support**: Provides information on customer support metrics and service levels.
+
+Each of these views is designed to provide stakeholders with the data they need to make informed decisions, all accessible through a user-friendly interface.
+
+### Holistic View of Report
+---
+![Holistics View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Bi%20360%20Report_Overall%20gif.gif)
+
+### Finance View
+---
+![Finance View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Finance-view-_1_.gif)
+
+### Sales View
+---
+![Sales View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Sales-View-_1_.gif)
+
+### Marketing View
+---
+![Marketing View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Marketing-View.gif)
+
+### Supply Chain View
+---
+![Supply Chain View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Supply-Chain-View.gif)
+
+### Executive View
+---
+![Executive View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Executive-View-_1_.gif)
+
+
+For the live report [Click here](https://app.powerbi.com/groups/me/reports/2fc322fd-495d-4f2b-8788-954ee28bbfd4/a13d39a7dda5a1ca29e3?experience=power-bi)
+
+---
+## 🎯 Project Outcome
+---
+This report empowers decision-makers to make informed choices driven by data. It not only supports strategic decisions but also provides answers to a wide range of "why" questions that may arise in various situations. This comprehensive approach ensures that stakeholders have the insights they need to navigate complex business scenarios effectively.
+
+
+
+
+
+
 
 
 
