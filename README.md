@@ -244,7 +244,7 @@ Each of these views is designed to provide stakeholders with the data they need 
 ![Executive View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Executive-View-_1_.gif)
 
 
-For the live report [Click here](https://app.powerbi.com/groups/me/reports/2fc322fd-495d-4f2b-8788-954ee28bbfd4/a13d39a7dda5a1ca29e3?experience=power-bi)
+For the live report [Click here](https://app.powerbi.com/view?r=eyJrIjoiNzM1M2Y1ODYtNjk4MS00MGI3LTliYjMtODE0MjczNDhlOTQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a13d39a7dda5a1ca29e3)
 
 ---
 ## 🎯 Project Outcome
