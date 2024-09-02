@@ -125,16 +125,16 @@ Before diving into the analysis, it's essential to grasp the available data. A c
 
 These tables contain static data, such as customer and product details.
 - **gdb056**:
- - **dim_customer**:
-  - 27 distinct markets (e.g., India, USA, Spain)
-  - 75 distinct customers across all markets
-  - 2 types of platforms:
-    - Brick & Mortar: Physical/offline stores
-    - E-commerce: Online stores (e.g., Amazon, Flipkart)
-  - 3 sales channels:
-    - Retailer
-    - Direct
-    - Distributors
+  - **dim_customer**:
+    - 27 distinct markets (e.g., India, USA, Spain)
+    - 75 distinct customers across all markets
+    - 2 types of platforms:
+      - Brick & Mortar: Physical/offline stores
+      - E-commerce: Online stores (e.g., Amazon, Flipkart)
+    - 3 sales channels:
+     - Retailer
+     - Direct
+     - Distributors
 
  - **dim_market**:
   - 27 distinct markets (e.g., India, USA, Spain)
