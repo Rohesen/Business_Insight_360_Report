@@ -189,11 +189,11 @@ For this project, the database is housed in MySQL. To begin, datasets were impor
 
 ## 🗺️ Data Modeling
 
-Data modeling is the foundation of any Power BI report. A well-structured data model ensures that all visuals perform efficiently and accurately. Poor data modeling can significantly degrade report performance, making it critical to follow best practices.
+-Data modeling is the foundation of any Power BI report. A well-structured data model ensures that all visuals perform efficiently and accurately. Poor data modeling can significantly degrade report performance, making it critical to follow best practices.
 
-In this project, we adhered to the **Snowflake Data Modeling** method, which organizes the data in a way that supports complex queries and provides a scalable model for future reporting needs.
+-In this project, we adhered to the **Snowflake Data Modeling** method, which organizes the data in a way that supports complex queries and provides a scalable model for future reporting needs.
 
-For more insights on data modeling best practices, you can refer to this [blog](#).
+-For more insights on data modeling best practices, you can refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices).
 
 
 
