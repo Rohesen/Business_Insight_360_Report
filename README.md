@@ -195,7 +195,7 @@ For this project, the database is housed in MySQL. To begin, datasets were impor
 
 -For more insights on data modeling best practices, you can refer to this [blog](https://addendanalytics.com/blog/data-modelling-best-practices).
 
-![Data_Model]((https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Project_Screenshot2_updated.png))
+![Data_Model](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Project_Screenshot2_updated.png)
 
 
 
