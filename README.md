@@ -6,7 +6,7 @@ AtliQ Hardware has been experiencing rapid growth in recent years. To maintain t
 
 This project was developed by following the [Codebasics Power BI Course](https://codebasics.io/courses/power-bi-data-analysis-with-end-to-end-project), ensuring that industry best practices were applied throughout.
 
-🔗 [Live Report Link](https://app.powerbi.com/view?r=eyJrIjoiNzM1M2Y1ODYtNjk4MS00MGI3LTliYjMtODE0MjczNDhlOTQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Live Report Link]([https://app.powerbi.com/view?r=eyJrIjoiNzM1M2Y1ODYtNjk4MS00MGI3LTliYjMtODE0MjczNDhlOTQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9](https://app.powerbi.com/view?r=eyJrIjoiNzM1M2Y1ODYtNjk4MS00MGI3LTliYjMtODE0MjczNDhlOTQwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=a13d39a7dda5a1ca29e3))
 
 ### Tech Stack ⚙️
 
