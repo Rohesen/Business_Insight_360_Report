@@ -114,10 +114,7 @@ However, a recent expansion into the American market resulted in unforeseen loss
 - **Risks**: What potential issues could arise during the project?
 - **Resources**: What data and resources are needed to build this dashboard?
 - **Design Input**: Do stakeholders have any input on the design and layout of the dashboard?
-
----
-
-After the project kickoff meetings, the data engineering team provided the necessary datasets as requested by the data analytics team. Let's dive into exploring and understanding the data!
+-  After the project kickoff meetings, the data engineering team provided the necessary datasets as requested by the data analytics team. Let's dive into exploring and understanding the data!
 ---
 
 ## 📂 Dataset Understanding
