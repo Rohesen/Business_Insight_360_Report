@@ -220,7 +220,7 @@ Each of these views is designed to provide stakeholders with the data they need 
 
 ### Holistic View of Report
 ---
-![Holistics View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Bi%20360%20Report_Overall%20gif.gif)
+![Holistics View](https://github.com/Rohesen/Business_Insight_360_Report/blob/main/Bi%20360%20Overall%20Report.gif)
 
 ### Finance View
 ---
